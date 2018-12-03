@@ -1,4 +1,4 @@
-# GNU/Linux Magazine n°220 - Décembre 2018
+# GNU/Linux Magazine n°220 - Novembre 2018
 
 # Codes sources
 Vous trouverez dans ce dépôt les différents codes sources des articles publiés dans le magazine.
